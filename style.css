@@ -197,3 +197,45 @@ ul.styled li{
     -webkit-transform: scale(3);
     -o-transform: scale(3);
 }
+
+
+/* ============== RESPONSIVE LAYOUTS ===============*/
+
+@media only screen and (min/width: 600px){
+    #menu{
+        width: 80%;
+        margin: auto;
+    }
+    #pages{
+        width: 80%;
+        margin: auto;
+    }
+    #banner{
+        width: 80%;
+        margin: auto;
+    }
+    #footer{
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min/width: 600px){
+    #menu{
+        width: 60%;
+        margin: auto;
+    }
+    #pages{
+        width: 60%;
+        margin: auto;
+    }
+    #banner{
+        width: 60%;
+        margin: auto;
+    }
+    #footer{
+        width: 60%;
+        margin: auto;
+    }
+}
+
